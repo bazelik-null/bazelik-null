@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Currently working on [libsdtp](https://github.com/bazelik-null/libsdtp) <br>
+- Currently working on [libsdtp](https://github.com/bazelik-null/libsdtp) and [RetardCalc](https://github.com/bazelik-null/RetardCalc)<br>
 - Learning **embedded** development, **low-level** development and a little bit of **reverse-engineering**... <br>
 - My **telegram** channel with all of my projects: https://t.me/bazelik_shitcode/3 <br>
 - Contact me: https://t.me/fiverebbles <br>
