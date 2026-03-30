@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Currently working on [libsdtp](https://github.com/bazelik-null/libsdtp) for my own protocol and [Morsel](https://github.com/bazelik-null/Morsel) programming language<br>
+- Currently working on [Morsel](https://github.com/bazelik-null/Morsel) programming language<br>
 - Learning **embedded**, **low-level** and **systems** development <br>
 - My **telegram** channel with all of my projects: https://t.me/bazelik_shitcode/3 <br>
 - Contact me: https://t.me/fiverebbles <br>
@@ -7,6 +7,8 @@
 
 
 # 💻 Tech Stack:
+**My own language:** <br>
+[Morsel](https://github.com/bazelik-null/Morsel) <br>
 **Learning:** <br>
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) <br>
 **Most used:** <br>
